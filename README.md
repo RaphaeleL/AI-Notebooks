@@ -1,6 +1,6 @@
-# AI-Notebooks
+# Notebooks
 
-just some ai notebooks 🧠
+Just some AI / ML Notebooks 🧠
 
 ## Machine Learning (ML)
 
